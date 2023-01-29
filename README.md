@@ -15,4 +15,6 @@ Nem vagyok profi C#-ben, ezért a kód elég mess, majd javítok rajta.<br><br>
   - Ha a megoldás sebességét átállítod, akkor figyelj arra, hogy ne legyen túl gyors, mert kibannolhatnak :)
 
 <br>
-Ha probléma vagy kérdés merülne fel, akkor discordon megtalálsz: [Discord](https://discordapp.com/users/631483115663261727)
+Ha probléma vagy kérdés merülne fel, akkor discordon megtalálsz:
+
+ [Discord](https://discordapp.com/users/631483115663261727)
