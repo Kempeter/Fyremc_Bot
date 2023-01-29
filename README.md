@@ -6,7 +6,7 @@ Nem vagyok profi C#-ben, ezért a kód elég mess, majd javítok rajta.<br><br>
 **Használat:**
   - Töltsd le a kódot
     ```sh
-    git clone ...
+    git clone https://github.com/XLutzy/Fyremc_Bot.git
     ```
   - Nyitsd meg a ```Fyremc_bot.sln``` fájlt, Visual Stuio 2022 segítségével.
   - Indítsd el a játékot, utána a programot is.
