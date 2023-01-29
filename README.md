@@ -1,5 +1,5 @@
-<h3 align="center">Fyremc-bot</h3>
-<br>
+<h3 align="center">Fyremc-bot</h3><br>
+
 **Fyremc bot Economy-hoz és SkyBlock-hoz**
 
 Nem vagyok profi C#-ben, ezért a kód elég mess, majd javítok rajta.<br><br>
