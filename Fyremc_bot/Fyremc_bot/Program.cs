@@ -50,8 +50,8 @@ namespace Fyremc_bot
 
                 string path = Environment.ExpandEnvironmentVariables(@"C:\Users\%USERNAME%\AppData\Local\fyremc-client\app-0.8.9\logs\latest.log");
                 string txt_words = @"..\..\szavak.txt";
-                string[] words = { "magyarország", "monitor", "szék", "számítógép", "szekrény", "spawn", "sziasztok", "kutya", "ősz", "kulcs", "mikrofon", "fyrecoin", "billentyűzet", "hangfal", "érem", "balta", "csákány", "könyv", "munka", "spawner", "bútor", "elefánt", "tolltartó"};
-                string[] words_without = { "?aaggmorrsyz", "imnoort", "?ksz", "????gmpstz", "?eknrsyz", "anpsw", "aikosstz", "aktuy", "?sz", "cklsu", "fikmnoor", "cefinory", "?beeillnttyz", "aafghln", "?emr", "aablt", "??cknsy", "?knvy", "akmnu", "aenprsw", "?bort", "?eeflt", "?allorttt"};
+                string[] words = { "magyarország", "monitor", "szék", "számítógép", "szekrény", "spawn", "sziasztok", "kutya", "ősz", "kulcs", "mikrofon", "fyrecoin", "billentyűzet", "hangfal", "érem", "balta", "csákány", "könyv", "munka", "spawner", "bútor", "elefánt", "tolltartó", "macska", "balaton", "salgótarján"};
+                string[] words_without = { "?aaggmorrsyz", "imnoort", "?ksz", "????gmpstz", "?eknrsyz", "anpsw", "aikosstz", "aktuy", "?sz", "cklsu", "fikmnoor", "cefinory", "?beeillnttyz", "aafghln", "?emr", "aablt", "??cknsy", "?knvy", "akmnu", "aenprsw", "?bort", "?eeflt", "?allorttt", "aackms", "aablnot", "??aagjlnrst"};
 
 
                 using (var fs = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
