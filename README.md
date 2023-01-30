@@ -1,6 +1,6 @@
 <h3 align="center">Fyremc-bot</h3><br>
 
-**Fyremc bot Economy-hoz és SkyBlock-hoz**
+**Fyremc bot Economy-hoz, FlyBlock-hoz és KitPVP-hez**
 
 Nem vagyok profi C#-ben, ezért a kód elég mess, majd javítok rajta.<br><br>
 **Használat:**
