@@ -81,7 +81,8 @@ namespace Fyremc_bot
                                 {
 
                                     Console.WriteLine(line);
-                                    last = line.Substring(line.Length - 6);
+                                    List<string> result = line.Split(new char[] { ' ' }).ToList();
+                                    last = result.Last();
                                     Console.WriteLine(last);
 
                                     Thread.Sleep(rnd.Next(2000, 2200));
