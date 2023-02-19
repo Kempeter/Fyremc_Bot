@@ -50,13 +50,12 @@ namespace Fyremc_bot
 
 
                 string path = Environment.ExpandEnvironmentVariables(@"C:\Users\%USERNAME%\AppData\Local\fyremc-client\app-0.8.9\logs\latest.log");
-                string path2 = Environment.ExpandEnvironmentVariables(@"C:\Users\%USERNAME%\AppData\Roaming\.minecraft\logs\latest.log");
                 string txt_words = @"..\..\szavak.txt";
                 string[] words = File.ReadAllLines(@"../../alap.txt");
                 string[] words_without = File.ReadAllLines(@"../../beturend.txt");
 
 
-                using (var fs = new FileStream(path2, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
+                using (var fs = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
                 using (var sr = new StreamReader(fs, System.Text.Encoding.ASCII))
                 {
                     string line;
