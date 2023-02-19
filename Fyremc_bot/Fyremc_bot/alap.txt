@@ -1,4 +1,4 @@
-﻿magyarország
+magyarország
 monitor
 szék
 számítógép
@@ -6,11 +6,11 @@ szekrény
 spawn
 sziasztok
 kutya
-osz
+ősz
 kulcs
 mikrofon
 fyrecoin
-billentyuzet
+billentyűzet
 hangfal
 érem
 balta
@@ -25,3 +25,8 @@ macska
 balaton
 salgótarján
 veszprém
+ceruza
+fyremc
+fejhallgató
+lootbox
+ital
